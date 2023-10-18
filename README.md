@@ -10,11 +10,11 @@ Ingeniería Civil en Computación de la Universidad de Chile.
 
 A parte de lo mencioando este proyecto fue extendido implementando:
 
-1 - Grabación y reproducción de movimiento.
-2 - Modelo de iluminación de Phong con sus respectivas constantes modificables por el usuario.
-3 - Cámara en tercera persona.
-4 - Zoom variable en ambas vistas.
-5 - Música para ambientar los distintos modos.
+1. Grabación y reproducción de movimiento. 
+2. Modelo de iluminación de Phong con sus respectivas constantes modificables por el usuario. 
+3. Cámara en tercera persona. 
+4. Zoom variable en ambas vistas. 
+5. Música para ambientar los distintos modos.
 
 Todos los controles se especifican aquí:
 
