@@ -364,7 +364,7 @@ HEIGHT = 780
 WINDOW_RATIO = WIDTH / HEIGHT
 FULL_SCREEN = False
 
-window = Window(WIDTH, HEIGHT, "Tarea 4 Modelación", resizable=False)
+window = Window(WIDTH, HEIGHT, "Tarea final Modelación", resizable=False)
 window.set_fullscreen(FULL_SCREEN)
 
 Shapes = scene_components(PIPELINE,PHONG_PIPELINE)
